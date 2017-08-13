@@ -1,0 +1,3 @@
+[submodule "include/FastLED"]
+	path = include/FastLED
+	url = git@github.com:wrd90/FastLED.git
